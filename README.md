@@ -10,3 +10,4 @@
 | read02a       | [Markdown](Read02a.md)            |
 |read02b        | [Version control](Read02b.md)     |
 |growthmindset  | [growthmindset](growthmindset.md) |
+|read03         | [read03](Read03.md)               |
