@@ -1,4 +1,4 @@
-Version control
+# Version control
 
 Version control is a system that allows you to see previous versions
 
@@ -8,7 +8,7 @@ There is more than one type of version control such as (CVCS, DVCS).
 
  
 
-        Centralized version control
+# Centralized version control
 
 
 Collaborating with the team on working on a single file led to the
@@ -27,7 +27,7 @@ of Distributed Version Control systems and that means there are multiple mirrore
 
  
 
-                                         Git
+ Git
 
 now let's talk about Git and what is that 
 

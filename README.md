@@ -4,7 +4,7 @@
 
 
 
-| assignment      | Description |
+| assignment    | Description                       |
 | ------------- | --------------------------------- |
 | read01        | [text editor](Read01.md)          |
 | read02a       | [Markdown](Read02a.md)            |
