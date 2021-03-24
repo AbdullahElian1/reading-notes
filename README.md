@@ -6,6 +6,7 @@
 
 | assignment      | Description |
 | ----------- | ----------- |
-| read01      | [text editor](Read01.md)      |
-| read02      | [Markdown](Read02b.md)        |
-|read02b      | [growth mindset](growthmindset.md)            |
+| read01      | [text editor](Read01.md)          |
+| read02a     | [Markdown](Read02a.md)            |
+|read02b      | [Version control](Read02b.md)     |
+|growthmindset| [growthmindset](growthmindset.md) |
