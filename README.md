@@ -11,4 +11,5 @@
 |read02b        | [Version control](Read02b.md)     |
 |growthmindset  | [growthmindset](growthmindset.md) |
 |read03         | [read03](Read03.md)               |
-|read04         | [JavaScript](Read04.md)          |
+|read04         | [JavaScript](Read04.md)           |
+| read05        | [loops](Read05.md)
