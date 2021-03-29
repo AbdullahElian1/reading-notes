@@ -12,4 +12,5 @@
 |growthmindset  | [growthmindset](growthmindset.md) |
 |read03         | [read03](Read03.md)               |
 |read04         | [JavaScript](Read04.md)           |
-| read05        | [loops](Read05.md)
+| read05        | [loops](Read05.md)                |
+|read06         | [color](Read06.md)                | 
