@@ -13,31 +13,31 @@ Headings to provide a heading for the web sit
 Cheat sheet:
 
 
-<p> To create a paragraph
+\<p> To create a paragraph
 
-<b> text bold
-<i> text Italic
-<br />  line break
-<hr /> horizontal line
-<strong> to indicates that its content has strong importance.
+\<b> text bold
+\<i> text Italic
+\<br />  line break
+\<hr /> horizontal line
+\<strong> to indicates that its content has strong importance.
 
-<blockquote> is used for longer quotes that take 
+\<blockquote> is used for longer quotes that take 
 up an entire paragraph.
 
-<cite> element can be used 
+\<cite> element can be used 
 to indicate where the citation is 
 from.
 
-The <dfn> element is used to 
+The \<dfn> element is used to 
 indicate the defining instance of 
 a new term
 
-<address>  to contain 
+\<address>  to contain 
 contact details for the author of 
 the page
 
-<ins>
-<del>
+\<ins>
+\<del>
 Changes to Content
 
 
@@ -60,9 +60,9 @@ h1 {
  color: rgb(255,255,255);}
 
 three way to apply css in the page 
-1- Inline : <p style="color= red"> </p>
-2-Internal: <style type="text/css"> </style>
-3-External: <link href="css/styles.css" type="text/css"> 
+1- Inline : \<p style="color= red"> </p>
+2-Internal: \<style type="text/css"> </style>
+3-External: \<link href="css/styles.css" type="text/css"> 
 
 CSS rules usually appear in a separate document, 
 although they may appear within an HTML page.
@@ -83,7 +83,7 @@ WHAT:Javascript is a programming language that allows you to make the web pages 
 
 WHY:Javascript convert a web page to be dynamic.
 
-HOW: we can use javascript in our code either internal<script> </script> or external <script src="script.js"></script>
+HOW: we can use javascript in our code either internal\<script> </script> or external \<script src="script.js"></script>
  example
 var today= new Date{); 
 var hourNow = today.getHours{) ;
