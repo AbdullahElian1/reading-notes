@@ -20,5 +20,6 @@
 
 | assignment    | Description                       |
 | ------------- | --------------------------------- |
-|Read01         |[Read1](Read001.md)                |
+|class01        |[Read1](Read001.md)                |
+|class02        |[class02](class02.md)              |
 
