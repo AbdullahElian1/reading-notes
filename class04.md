@@ -169,3 +169,17 @@ var keyword, it can only be used in that function.
 
 global variables:If you create a variable outside of a function, then it 
 can be used anywhere within the script.
+
+# the article
+pair programming:commonly involves two roles
+1-Dirver: the one that handle the code  manages the text editor, switching files, version control.
+
+2-Navigator:  uses their words to guide the Driver and thinks about the big picture.
+
+Features of Pair Programming :
+1-Greater efficiency
+2-Engaged collaboration
+3-Learning from fellow students
+4-Social skills
+5-Job interview readiness
+6- Work environment readiness
