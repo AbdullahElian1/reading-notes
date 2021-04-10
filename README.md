@@ -25,4 +25,4 @@
 |class03        |[class03](class03.md)              |
 |class04        |[class04](class04.md)              |
 |class05        |[class05](clsss05.md)              |
-|class05        |[class06](class06.md)              |
+|class06        |[class06](class06.md)              |
