@@ -1,4 +1,4 @@
-# defintion list
+# Definition list
 
 block-element: start a new line
 
