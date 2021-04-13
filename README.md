@@ -28,3 +28,4 @@
 |class06        |[class06](class06.md)              |
 |class07        |[class07](class07.md)              |
 |class08        |[class08](class08.md)              |
+|class09        |[class09](class09.md)              |
