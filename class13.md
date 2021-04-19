@@ -1,4 +1,4 @@
-# Local Storge
+# Local Storage 
 
 Historically, Cookies were invented early in the web’s 
 history and we use it to store small amounts of data.
@@ -12,12 +12,12 @@ three downsides for cookies:
 3-cookies limit 4 KB.
 
 
-# HTML5 Storge
+# HTML5 Storage 
 
-HTML5 Storge:it’s a way for web pages to store 
+HTML5 Storage :it’s a way for web pages to store 
 named key/value pairs locally, within the client web browser.
 
-to check html storge:
+to check html Storage :
 
 
 if (Modernizr.localstorage) {
