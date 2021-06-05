@@ -39,3 +39,7 @@
 |class14        |[class14](class14.md)              |
 
 # Code 301 - Intermediate Software Development
+
+| assignment    | Description                       |
+| ------------- | --------------------------------- |
+|class01-code301       |[class01](class01-code301)                |
