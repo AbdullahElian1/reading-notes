@@ -42,4 +42,5 @@
 
 | assignment    | Description                       |
 | ------------- | --------------------------------- |
-|class01-code301       |[class01](class01-code301)                |
+|class01-code301      |[class01](class01-code301.md)  |
+|class02-code301      |[class02](class01-code301.md)  |
