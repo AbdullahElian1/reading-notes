@@ -1,15 +1,19 @@
 
     What is a ‘call’?
+
 The call stack is primarily used for function invocation (call) and this funcyion execute the functions from top to down
 
 
     How many ‘calls’ can happen at once?
+
 one at a time
 
     What does LIFO mean?
+
 last in first out that mean the last function pushed to the stack will pop out first.
 
     Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
+    
 function firstFunction(){
 
   console.log("Hello from firstFunction");
@@ -21,7 +25,7 @@ function secondFunction(){
   firstFunction();
 
   console.log("The end from secondFunction");
-  
+
 }
 
 secondFunction();
