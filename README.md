@@ -62,4 +62,5 @@
 | assignment      | Description                       |
 | -------------   | --------------------------------- |
 |class01-code401  |[class01](class01-code401.md)      | 
-|class02-code401  |[class02](class02-code401.md)      |                                         
+|class02-code401  |[class02](class02-code401.md)      |         
+|class03-code401  |[class03](class03-code401.md)      |                                      
