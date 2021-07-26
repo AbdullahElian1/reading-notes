@@ -39,29 +39,22 @@ There are three different categories of file objects:
 *Raw binary files
 
 
-# Python Exceptions
+Python Exceptions aand raising
 
-A Python program terminates as soon as it encounters an error. In Python, an error can be a syntax error or an exception
-Exceptions versus Syntax Errors
-
-Syntax errors occur when the parser detects an incorrect statement. exception error: This type of error occurs whenever syntactically correct Python code results in an error.
-Raising an Exception
-
-    We can use raise to throw an exception if a condition occurs. The statement can be complemented with a custom exception.
-
+Expections happen when the python code is syntactically correct but u run into an error (the last line of the error tells you what type of exception it is) raise allows you to throw an exception at any time.
 The AssertionError Exception
 
-Instead of waiting for a program to crash midway, you can also start by making an assertion in Python. We assert that a certain condition is met. If this condition turns out to be True, then that is excellent! The program can continue. If the condition turns out to be False, you can have the program throw an AssertionError exception.
+assert enables you to verify if a certain condition is met and throw an exception if it isn’t.
 The try and except Block: Handling Exceptions
 
-The try and except block in Python is used to catch and handle exceptions. Python executes code following the try statement as a “normal” part of the program. The code that follows the except statement is the program’s response to any exceptions in the preceding try clause. useful notes about try and except
+    In the try clause, all statements are executed until an exception is encountered.
 
-A try clause is executed up until the point where the first exception is encountered.
+    except is used to catch and handle the exception(s) that are encountered in the try clause.
 
-Inside the except clause, or the exception handler, you determine how the program responds to the exception.
-
-You can anticipate multiple exceptions and differentiate how the program should respond to them.
 The else Clause
 
-In Python, using the else statement, you can instruct a program to execute a certain block of code only in the absence of exceptions.
+In Python, using the else statement, you can instruct a program to execute a certain block of code only in the absence of exceptions. else lets you code sections that should run only when no exceptions are encountered in the try clause.
+finally
+
+finally enables you to execute sections of code that should always run, with or without any previously encountered exceptions. Everything in the finally clause will be executed it doesn't matter if u run into an exception
 
