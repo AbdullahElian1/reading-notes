@@ -1,4 +1,5 @@
-Python scope
+# Python scope
+
 Modules: The Global Scope
 There’s only one global Python scope per program execution. This scope remains in existence until the program terminates and all its names are forgotten. Otherwise, the next time you were to run the program, the names would remember their values from the previous run.
 
