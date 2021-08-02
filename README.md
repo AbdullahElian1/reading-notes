@@ -67,4 +67,5 @@
 |class04-code401  |[class04](class04-code401.md)      |    
 |class05-code401  |[class05](class05-code401.md)      | 
 |class06-code401  |[class06](class06-code401.md)      |  
-|class07-code401  |[class07](class07-code401.md)      |                                       
+|class07-code401  |[class07](class07-code401.md)      |         
+|class08-code401  |[class08](class08-code401.md)      |                                      
