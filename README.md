@@ -84,5 +84,7 @@
 |class21-code401  |[class21](class21-code401.md)    | 
 |class22-code401  |[class22](class22-code401.md)    | 
 |class23-code401  |[class23](class23-code401.md)    | 
+|class24-code401  |[class24](class24-code401.md)    | 
+
 
 
